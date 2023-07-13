@@ -75,5 +75,5 @@ Then you could connect to localhost:9200 with a tool like curl or Htttpie to int
 "http :9200/_cat/indices?v"
 ```
 
-## Happy deployments 
-By Andy Bravo
+### Happy deployments! 
+By Andy Bravo @BitsHoroscope 
